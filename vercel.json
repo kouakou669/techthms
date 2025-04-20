@@ -13,7 +13,7 @@
   "routes": [
     { "src": "/qr", "dest": "index.js" },
     { "src": "/code", "dest": "index.js" },
-    { "src": "/pair", "dest": "pair.js" },
+    { "src": "/pair", "dest": "index.js" },
     { "src": "/", "dest": "index.js" }
   ]
 }
